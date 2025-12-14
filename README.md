@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/imavafe/neohotbar/actions"><img src="https://img.shields.io/github/actions/workflow/status/imavafe/neohotbar/ci.yaml?branch=main" alt="Build Status"></a>
-  <img title="MIT licensed" alt="License" src="https://img.shields.io/github/license/ImAvafe/NeoHotbar"></img>
+  <a href="LICENSE"><img title="MIT licensed" alt="License" src="https://img.shields.io/github/license/ImAvafe/NeoHotbar"></img></a>
 </p>
 
 <p align="center">
