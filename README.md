@@ -25,9 +25,9 @@
 
 ---
 
-## [📦Installation](https://loneka.com/NeoHotbar/docs/intro/#installation)
+## [📦Installation](https://loneka.com/neohotbar/docs/intro#installation)
 
-## [📄 Documentation](https://loneka.com/NeoHotbar/)
+## [📄 Documentation](https://loneka.com/neohotbar/)
 
 ## [🎮 Live Demo](https://roblox.com/games/12259231211)
 
