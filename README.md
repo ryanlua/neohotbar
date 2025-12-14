@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/imavafe/neohotbar/actions"><img src="https://img.shields.io/github/actions/workflow/status/imavafe/neohotbar/ci.yaml?branch=main" alt="Build Status"></a>
+  <a href="https://github.com/loneka/neohotbar/actions/workflows/ci.yaml"><img src="https://img.shields.io/github/actions/workflow/status/imavafe/neohotbar/ci.yaml?branch=main" alt="Build Status"></a>
   <a href="LICENSE"><img title="MIT licensed" alt="License" src="https://img.shields.io/github/license/ImAvafe/NeoHotbar"></img></a>
 </p>
 
